@@ -1,1 +1,1 @@
-check live site here  https://sisu12.github.io/project-java/
+check live site here   https://sisu12.github.io/Rock-paper-scissors/
